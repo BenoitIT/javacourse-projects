@@ -1,14 +1,14 @@
 # javacourse-projects
 this repository contains Library manaement system as the final projects as well class daily tasks
-ADVANCED JAVA PROGRAMMING PROJECTS
+## ADVANCED JAVA PROGRAMMING PROJECTS
 
 
 
 
 
-NAME: NDAGIJIMANA Benoit
-REG NO: 221011094
-CLASS NO: 70
+### NAME: NDAGIJIMANA Benoit
+### REG NO: 221011094
+### CLASS NO: 70
 
 PROJECT NAME: LIBRAY MANAGEMENT SYSTEM
 
