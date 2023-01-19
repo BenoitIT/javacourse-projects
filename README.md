@@ -10,26 +10,26 @@ this repository contains Library manaement system as the final projects as well 
 ### REG NO: 221011094
 ### CLASS NO: 70
 
-PROJECT NAME: LIBRAY MANAGEMENT SYSTEM
+#### PROJECT NAME: LIBRAY MANAGEMENT SYSTEM
 
 
 
 
 
-1.PLANNING 
+#### 1.PLANNING 
 The goal of library management system is to manage all the book transaction in a fast and efficient way. Using this system, the transactions of the books in the library will be more trustworthy and this system will not rely to internet connection. The system will eliminate redundancy. The system will keep track the book borrowed, the date borrowed, and will give date to returned the book. The objective is to make the work of librarian and the transaction of book borrowed and returned become easier. This will provide efficient library management
-Project goals and objectives
-	To organizes the process of borrowing and returning the books.
-	To state the specific location of the books.
-	To state the status of available books.
-	to collect, store, organize, retrieve and make available the information sources to the library information users.
- Problems to be solved
-•	Lack of security
-•	Too much paper wastage As Papers take up a massive amount of room in the library.
-•	Poor Data Storage
-•	Unavailability of Information.
-•	Slow Retrieval of Data
-•	Time consuming
+##### Project goals and objectives
+* 	To organizes the process of borrowing and returning the books.
+* 	To state the specific location of the books.
+* 	To state the status of available books.
+* 	to collect, store, organize, retrieve and make available the information sources to the library information users.
+#####  Problems to be solved
+*	Lack of security
+*	Too much paper wastage As Papers take up a massive amount of room in the library.
+*	Poor Data Storage
+*	Unavailability of Information.
+*	Slow Retrieval of Data
+*	Time consuming
 
 2. Design
 
