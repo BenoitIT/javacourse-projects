@@ -12,7 +12,7 @@ this repository contains Library manaement system as the final projects as well 
 
 #### PROJECT NAME: LIBRAY MANAGEMENT SYSTEM
 
-##### you can read the doc [click here to see google document requested ] (https://docs.google.com/document/d/16AwR3buF8iTJrlv-IvTDGnhDfIfvLeALER_hM8sAL4A/edit)
+##### you can read the doc [1]:https://docs.google.com/document/d/16AwR3buF8iTJrlv-IvTDGnhDfIfvLeALER_hM8sAL4A/edit "click here to view google document"
 
 
 
