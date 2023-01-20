@@ -12,7 +12,7 @@ this repository contains Library manaement system as the final projects as well 
 
 #### PROJECT NAME: LIBRAY MANAGEMENT SYSTEM
 
-
+##### you can read the doc[click here to see google document requested ]https://docs.google.com/document/d/16AwR3buF8iTJrlv-IvTDGnhDfIfvLeALER_hM8sAL4A/edit
 
 
 
@@ -84,7 +84,7 @@ Once the search panel opened the librarian is able to search book by its name.
 As well as update information related to that book.
 * If he want to view the list of registered book in general, he/she can click get all book button. And load the list of the books.
 
-###5.Deployment 
+### 5.Deployment 
 
 *	Installing MYSQL as database management system.
 *	Download and configure com.mysql.jdbc_5.1.5.jar as library handling MYSQL connection.
